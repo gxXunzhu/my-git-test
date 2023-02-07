@@ -9,5 +9,6 @@ public class Main {
         System.out.println("ct");
         System.out.println("444123123");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
