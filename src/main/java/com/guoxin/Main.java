@@ -6,5 +6,6 @@ public class Main {
         System.out.println("我的第一个git文件");
         System.out.println("test");
         System.out.println("test-4");
+        System.out.println("ct");
     }
 }
